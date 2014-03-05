@@ -1,0 +1,1391 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\HECC\HECC.sct
+SECTORTITLE:HECC.sct
+Airports:HEAT:name
+Airports:HEAT:symbol
+Airports:HEAX:name
+Airports:HEAX:symbol
+Airports:HEAZ:name
+Airports:HEAZ:symbol
+Airports:HEBA:name
+Airports:HEBA:symbol
+Airports:HEBL:name
+Airports:HEBL:symbol
+Airports:HECA:name
+Airports:HECA:symbol
+Airports:HEDK:name
+Airports:HEDK:symbol
+Airports:HEGN:name
+Airports:HEGN:symbol
+Airports:HEGR:name
+Airports:HEGR:symbol
+Airports:HEKG:name
+Airports:HEKG:symbol
+Airports:HELX:name
+Airports:HELX:symbol
+Airports:HEMA:name
+Airports:HEMA:symbol
+Airports:HEMK:name
+Airports:HEMK:symbol
+Airports:HEMM:name
+Airports:HEMM:symbol
+Airports:HEOC:name
+Airports:HEOC:symbol
+Airports:HEOW:name
+Airports:HEOW:symbol
+Airports:HEPS:name
+Airports:HEPS:symbol
+Airports:HESC:name
+Airports:HESC:symbol
+Airports:HESH:name
+Airports:HESH:symbol
+Airports:HESN:name
+Airports:HESN:symbol
+Airports:HETB:name
+Airports:HETB:symbol
+Airports:HETR:name
+Airports:HETR:symbol
+ARTCC boundary:F:
+ARTCC high boundary:F:
+ARTCC low boundary:L:
+Free Text:Default group\HEBA:freetext
+Free Text:Default group\HEGN:freetext
+Free Text:Default group\HEMM:freetext
+Free Text:Default group\HESH:freetext
+Free Text:FIR_Ids\HECC:freetext
+Free Text:FIR_Ids\LLLL:freetext
+Free Text:FIR_Ids\OEJD:freetext
+Free Text:FIR_Ids\OJAC:freetext
+Free Text:Group\HEAX:freetext
+Free Text:Group\HECA:freetext
+Free Text:HEAX\1:freetext
+Free Text:HEAX\10:freetext
+Free Text:HEAX\11:freetext
+Free Text:HEAX\12:freetext
+Free Text:HEAX\13:freetext
+Free Text:HEAX\14:freetext
+Free Text:HEAX\15:freetext
+Free Text:HEAX\16:freetext
+Free Text:HEAX\17:freetext
+Free Text:HEAX\2:freetext
+Free Text:HEAX\3:freetext
+Free Text:HEAX\4:freetext
+Free Text:HEAX\5:freetext
+Free Text:HEAX\6:freetext
+Free Text:HEAX\7:freetext
+Free Text:HEAX\8:freetext
+Free Text:HEAX\9:freetext
+Free Text:HEAX\B:freetext
+Free Text:HEAX\E:freetext
+Free Text:HEAX\W:freetext
+Free Text:HEBA\1:freetext
+Free Text:HEBA\10:freetext
+Free Text:HEBA\11:freetext
+Free Text:HEBA\12:freetext
+Free Text:HEBA\2:freetext
+Free Text:HEBA\3:freetext
+Free Text:HEBA\4:freetext
+Free Text:HEBA\5:freetext
+Free Text:HEBA\6:freetext
+Free Text:HEBA\7:freetext
+Free Text:HEBA\7:freetext
+Free Text:HEBA\8:freetext
+Free Text:HEBA\8:freetext
+Free Text:HEBA\9:freetext
+Free Text:HEBA\9:freetext
+Free Text:HEBA\A:freetext
+Free Text:HEBA\B:freetext
+Free Text:HEBA\C:freetext
+Free Text:HEBA\D:freetext
+Free Text:HEBA\E:freetext
+Free Text:HEBA\F:freetext
+Free Text:HEBA\G:freetext
+Free Text:HEBA\H:freetext
+Free Text:HECA\1:freetext
+Free Text:HECA\1:freetext
+Free Text:HECA\1:freetext
+Free Text:HECA\1:freetext
+Free Text:HECA\1:freetext
+Free Text:HECA\1:freetext
+Free Text:HECA\10:freetext
+Free Text:HECA\10:freetext
+Free Text:HECA\11:freetext
+Free Text:HECA\11:freetext
+Free Text:HECA\12:freetext
+Free Text:HECA\13:freetext
+Free Text:HECA\13:freetext
+Free Text:HECA\14:freetext
+Free Text:HECA\15:freetext
+Free Text:HECA\17:freetext
+Free Text:HECA\17:freetext
+Free Text:HECA\18:freetext
+Free Text:HECA\19:freetext
+Free Text:HECA\19:freetext
+Free Text:HECA\2:freetext
+Free Text:HECA\2:freetext
+Free Text:HECA\2:freetext
+Free Text:HECA\2:freetext
+Free Text:HECA\20:freetext
+Free Text:HECA\21:freetext
+Free Text:HECA\21:freetext
+Free Text:HECA\22:freetext
+Free Text:HECA\23:freetext
+Free Text:HECA\23:freetext
+Free Text:HECA\24:freetext
+Free Text:HECA\25:freetext
+Free Text:HECA\25:freetext
+Free Text:HECA\26:freetext
+Free Text:HECA\27:freetext
+Free Text:HECA\27:freetext
+Free Text:HECA\28:freetext
+Free Text:HECA\29:freetext
+Free Text:HECA\29:freetext
+Free Text:HECA\3:freetext
+Free Text:HECA\3:freetext
+Free Text:HECA\3:freetext
+Free Text:HECA\3:freetext
+Free Text:HECA\3:freetext
+Free Text:HECA\30:freetext
+Free Text:HECA\300:freetext
+Free Text:HECA\301:freetext
+Free Text:HECA\302:freetext
+Free Text:HECA\303:freetext
+Free Text:HECA\304:freetext
+Free Text:HECA\305:freetext
+Free Text:HECA\306:freetext
+Free Text:HECA\307:freetext
+Free Text:HECA\308:freetext
+Free Text:HECA\309:freetext
+Free Text:HECA\31:freetext
+Free Text:HECA\31:freetext
+Free Text:HECA\310:freetext
+Free Text:HECA\311:freetext
+Free Text:HECA\312:freetext
+Free Text:HECA\313:freetext
+Free Text:HECA\314:freetext
+Free Text:HECA\315:freetext
+Free Text:HECA\316:freetext
+Free Text:HECA\317:freetext
+Free Text:HECA\318:freetext
+Free Text:HECA\319:freetext
+Free Text:HECA\32:freetext
+Free Text:HECA\320:freetext
+Free Text:HECA\321:freetext
+Free Text:HECA\322:freetext
+Free Text:HECA\323:freetext
+Free Text:HECA\324:freetext
+Free Text:HECA\325:freetext
+Free Text:HECA\326:freetext
+Free Text:HECA\327:freetext
+Free Text:HECA\328:freetext
+Free Text:HECA\329:freetext
+Free Text:HECA\33:freetext
+Free Text:HECA\330:freetext
+Free Text:HECA\331:freetext
+Free Text:HECA\332:freetext
+Free Text:HECA\333:freetext
+Free Text:HECA\334:freetext
+Free Text:HECA\335:freetext
+Free Text:HECA\336:freetext
+Free Text:HECA\337:freetext
+Free Text:HECA\34:freetext
+Free Text:HECA\35:freetext
+Free Text:HECA\36:freetext
+Free Text:HECA\37:freetext
+Free Text:HECA\38:freetext
+Free Text:HECA\39:freetext
+Free Text:HECA\4:freetext
+Free Text:HECA\4:freetext
+Free Text:HECA\4:freetext
+Free Text:HECA\4:freetext
+Free Text:HECA\40:freetext
+Free Text:HECA\41:freetext
+Free Text:HECA\42:freetext
+Free Text:HECA\43:freetext
+Free Text:HECA\44:freetext
+Free Text:HECA\45:freetext
+Free Text:HECA\46:freetext
+Free Text:HECA\47:freetext
+Free Text:HECA\48:freetext
+Free Text:HECA\5:freetext
+Free Text:HECA\5:freetext
+Free Text:HECA\5:freetext
+Free Text:HECA\5:freetext
+Free Text:HECA\5:freetext
+Free Text:HECA\6:freetext
+Free Text:HECA\6:freetext
+Free Text:HECA\6:freetext
+Free Text:HECA\7:freetext
+Free Text:HECA\7:freetext
+Free Text:HECA\7:freetext
+Free Text:HECA\7:freetext
+Free Text:HECA\8:freetext
+Free Text:HECA\8:freetext
+Free Text:HECA\8:freetext
+Free Text:HECA\9:freetext
+Free Text:HECA\9:freetext
+Free Text:HECA\9:freetext
+Free Text:HECA\9:freetext
+Free Text:HECA\9:freetext
+Free Text:HECA\A:freetext
+Free Text:HECA\A1:freetext
+Free Text:HECA\A10:freetext
+Free Text:HECA\A12:freetext
+Free Text:HECA\A14:freetext
+Free Text:HECA\A16:freetext
+Free Text:HECA\A18:freetext
+Free Text:HECA\A2:freetext
+Free Text:HECA\A3:freetext
+Free Text:HECA\A4:freetext
+Free Text:HECA\A5:freetext
+Free Text:HECA\A6:freetext
+Free Text:HECA\A6:freetext
+Free Text:HECA\A8:freetext
+Free Text:HECA\B:freetext
+Free Text:HECA\C:freetext
+Free Text:HECA\C1:freetext
+Free Text:HECA\D:freetext
+Free Text:HECA\E:freetext
+Free Text:HECA\EXIT1:freetext
+Free Text:HECA\EXIT2:freetext
+Free Text:HECA\EXIT3:freetext
+Free Text:HECA\EXIT4:freetext
+Free Text:HECA\F:freetext
+Free Text:HECA\F:freetext
+Free Text:HECA\F1:freetext
+Free Text:HECA\F1:freetext
+Free Text:HECA\F2:freetext
+Free Text:HECA\F3:freetext
+Free Text:HECA\F5:freetext
+Free Text:HECA\F7:freetext
+Free Text:HECA\F8:freetext
+Free Text:HECA\F9:freetext
+Free Text:HECA\F9:freetext
+Free Text:HECA\G:freetext
+Free Text:HECA\G1:freetext
+Free Text:HECA\G2:freetext
+Free Text:HECA\G3:freetext
+Free Text:HECA\G4:freetext
+Free Text:HECA\G5:freetext
+Free Text:HECA\G7:freetext
+Free Text:HECA\G8:freetext
+Free Text:HECA\G9:freetext
+Free Text:HECA\H:freetext
+Free Text:HECA\H1:freetext
+Free Text:HECA\H2:freetext
+Free Text:HECA\J:freetext
+Free Text:HECA\K:freetext
+Free Text:HECA\L:freetext
+Free Text:HECA\P:freetext
+Free Text:HECA\Q:freetext
+Free Text:HECA\R:freetext
+Free Text:HECA\R1:freetext
+Free Text:HECA\S:freetext
+Free Text:HECA\T:freetext
+Free Text:HECA\T1:freetext
+Free Text:HECA\T2:freetext
+Free Text:HECA\U:freetext
+Free Text:HECA\V:freetext
+Free Text:HECA\W:freetext
+Free Text:HECA\X:freetext
+Free Text:HECA\Y:freetext
+Free Text:HECA\Z:freetext
+Free Text:HEGN\1:freetext
+Free Text:HEGN\10:freetext
+Free Text:HEGN\11:freetext
+Free Text:HEGN\12:freetext
+Free Text:HEGN\13:freetext
+Free Text:HEGN\14:freetext
+Free Text:HEGN\15:freetext
+Free Text:HEGN\16:freetext
+Free Text:HEGN\17:freetext
+Free Text:HEGN\18:freetext
+Free Text:HEGN\19:freetext
+Free Text:HEGN\2:freetext
+Free Text:HEGN\20:freetext
+Free Text:HEGN\21:freetext
+Free Text:HEGN\22:freetext
+Free Text:HEGN\23:freetext
+Free Text:HEGN\24:freetext
+Free Text:HEGN\25:freetext
+Free Text:HEGN\26:freetext
+Free Text:HEGN\27:freetext
+Free Text:HEGN\28:freetext
+Free Text:HEGN\29:freetext
+Free Text:HEGN\3:freetext
+Free Text:HEGN\30:freetext
+Free Text:HEGN\31:freetext
+Free Text:HEGN\32:freetext
+Free Text:HEGN\33:freetext
+Free Text:HEGN\34:freetext
+Free Text:HEGN\35:freetext
+Free Text:HEGN\4:freetext
+Free Text:HEGN\5:freetext
+Free Text:HEGN\6:freetext
+Free Text:HEGN\7:freetext
+Free Text:HEGN\8:freetext
+Free Text:HEGN\9:freetext
+Free Text:HEGN\A:freetext
+Free Text:HEGN\B:freetext
+Free Text:HEGN\C:freetext
+Free Text:HEGN\D:freetext
+Free Text:HEGN\E:freetext
+Free Text:HEGN\F:freetext
+Free Text:HEGN\H:freetext
+Free Text:HEGN\I:freetext
+Free Text:HEGN\L:freetext
+Free Text:HEGN\M:freetext
+Free Text:HEGN\N:freetext
+Free Text:HEGN\O:freetext
+Free Text:HEGN\P:freetext
+Free Text:HEGN\Q:freetext
+Free Text:HEMK\1:freetext
+Free Text:HEMK\11:freetext
+Free Text:HEMK\12:freetext
+Free Text:HEMK\13:freetext
+Free Text:HEMK\14:freetext
+Free Text:HEMK\2:freetext
+Free Text:HEMK\3:freetext
+Free Text:HEMK\4:freetext
+Free Text:HEMK\5:freetext
+Free Text:HEMK\6:freetext
+Free Text:HEMK\A:freetext
+Free Text:HEMK\B:freetext
+Free Text:HEMK\C:freetext
+Free Text:HEMM\1:freetext
+Free Text:HEMM\1:freetext
+Free Text:HEMM\10:freetext
+Free Text:HEMM\11:freetext
+Free Text:HEMM\12:freetext
+Free Text:HEMM\13:freetext
+Free Text:HEMM\16:freetext
+Free Text:HEMM\18:freetext
+Free Text:HEMM\18:freetext
+Free Text:HEMM\19:freetext
+Free Text:HEMM\2:freetext
+Free Text:HEMM\2:freetext
+Free Text:HEMM\20:freetext
+Free Text:HEMM\21:freetext
+Free Text:HEMM\22:freetext
+Free Text:HEMM\23:freetext
+Free Text:HEMM\24:freetext
+Free Text:HEMM\25:freetext
+Free Text:HEMM\26:freetext
+Free Text:HEMM\27:freetext
+Free Text:HEMM\28:freetext
+Free Text:HEMM\29:freetext
+Free Text:HEMM\3:freetext
+Free Text:HEMM\30:freetext
+Free Text:HEMM\31:freetext
+Free Text:HEMM\32:freetext
+Free Text:HEMM\33:freetext
+Free Text:HEMM\34:freetext
+Free Text:HEMM\35:freetext
+Free Text:HEMM\36:freetext
+Free Text:HEMM\37:freetext
+Free Text:HEMM\38:freetext
+Free Text:HEMM\39:freetext
+Free Text:HEMM\4:freetext
+Free Text:HEMM\40:freetext
+Free Text:HEMM\41:freetext
+Free Text:HEMM\42:freetext
+Free Text:HEMM\43:freetext
+Free Text:HEMM\44:freetext
+Free Text:HEMM\45:freetext
+Free Text:HEMM\46:freetext
+Free Text:HEMM\47:freetext
+Free Text:HEMM\48:freetext
+Free Text:HEMM\49:freetext
+Free Text:HEMM\5:freetext
+Free Text:HEMM\50:freetext
+Free Text:HEMM\51:freetext
+Free Text:HEMM\52:freetext
+Free Text:HEMM\53:freetext
+Free Text:HEMM\54:freetext
+Free Text:HEMM\55:freetext
+Free Text:HEMM\56:freetext
+Free Text:HEMM\57:freetext
+Free Text:HEMM\58:freetext
+Free Text:HEMM\59:freetext
+Free Text:HEMM\6:freetext
+Free Text:HEMM\60:freetext
+Free Text:HEMM\61:freetext
+Free Text:HEMM\7:freetext
+Free Text:HEMM\8:freetext
+Free Text:HEMM\9:freetext
+Free Text:HEMM\A:freetext
+Free Text:HEMM\B:freetext
+Free Text:HEMM\C:freetext
+Free Text:HESH\1:freetext
+Free Text:HESH\10:freetext
+Free Text:HESH\11:freetext
+Free Text:HESH\12:freetext
+Free Text:HESH\13:freetext
+Free Text:HESH\14:freetext
+Free Text:HESH\15:freetext
+Free Text:HESH\16:freetext
+Free Text:HESH\17:freetext
+Free Text:HESH\18:freetext
+Free Text:HESH\19:freetext
+Free Text:HESH\2:freetext
+Free Text:HESH\20:freetext
+Free Text:HESH\21:freetext
+Free Text:HESH\22:freetext
+Free Text:HESH\23:freetext
+Free Text:HESH\24:freetext
+Free Text:HESH\25:freetext
+Free Text:HESH\26:freetext
+Free Text:HESH\3:freetext
+Free Text:HESH\4:freetext
+Free Text:HESH\5:freetext
+Free Text:HESH\6:freetext
+Free Text:HESH\7:freetext
+Free Text:HESH\8:freetext
+Free Text:HESH\9:freetext
+Free Text:HESH\A:freetext
+Free Text:HESH\B:freetext
+Free Text:HESH\C:freetext
+Free Text:HESH\D:freetext
+Free Text:HESH\E:freetext
+Free Text:HESH\F:freetext
+Free Text:HESH\G:freetext
+Free Text:HESH\H:freetext
+Free Text:HESH\I:freetext
+Free Text:HESH\J:freetext
+Free Text:HESH\K:freetext
+Free Text:HESH\L:freetext
+Geo:GEO:
+Geo:HEAX:
+Geo:HEBA:
+Geo:HECA:
+Geo:HEGN:
+Geo:HEMK:
+Geo:HEMM:
+Geo:HESH:
+Runways:01-19:centerline
+Runways:01-19:extended centerline 1
+Runways:01-19:extended centerline 1 left base
+Runways:01-19:extended centerline 1 left ticks
+Runways:01-19:extended centerline 1 left vectoring
+Runways:01-19:extended centerline 1 right base
+Runways:01-19:extended centerline 1 right ticks
+Runways:01-19:extended centerline 1 right vectoring
+Runways:01-19:extended centerline 2
+Runways:01-19:extended centerline 2 left base
+Runways:01-19:extended centerline 2 left ticks
+Runways:01-19:extended centerline 2 left vectoring
+Runways:01-19:extended centerline 2 right base
+Runways:01-19:extended centerline 2 right ticks
+Runways:01-19:extended centerline 2 right vectoring
+Runways:01-19:name
+Runways:02-20:centerline
+Runways:02-20:extended centerline 1
+Runways:02-20:extended centerline 1 left base
+Runways:02-20:extended centerline 1 left ticks
+Runways:02-20:extended centerline 1 left vectoring
+Runways:02-20:extended centerline 1 right base
+Runways:02-20:extended centerline 1 right ticks
+Runways:02-20:extended centerline 1 right vectoring
+Runways:02-20:extended centerline 2
+Runways:02-20:extended centerline 2 left base
+Runways:02-20:extended centerline 2 left ticks
+Runways:02-20:extended centerline 2 left vectoring
+Runways:02-20:extended centerline 2 right base
+Runways:02-20:extended centerline 2 right ticks
+Runways:02-20:extended centerline 2 right vectoring
+Runways:02-20:name
+Runways:04-22:centerline
+Runways:04-22:extended centerline 1
+Runways:04-22:extended centerline 1 left base
+Runways:04-22:extended centerline 1 left ticks
+Runways:04-22:extended centerline 1 left vectoring
+Runways:04-22:extended centerline 1 right base
+Runways:04-22:extended centerline 1 right ticks
+Runways:04-22:extended centerline 1 right vectoring
+Runways:04-22:extended centerline 2
+Runways:04-22:extended centerline 2 left base
+Runways:04-22:extended centerline 2 left ticks
+Runways:04-22:extended centerline 2 left vectoring
+Runways:04-22:extended centerline 2 right base
+Runways:04-22:extended centerline 2 right ticks
+Runways:04-22:extended centerline 2 right vectoring
+Runways:04-22:name
+Runways:04L-22R:centerline
+Runways:04L-22R:extended centerline 1
+Runways:04L-22R:extended centerline 1 left base
+Runways:04L-22R:extended centerline 1 left ticks
+Runways:04L-22R:extended centerline 1 left vectoring
+Runways:04L-22R:extended centerline 1 right base
+Runways:04L-22R:extended centerline 1 right ticks
+Runways:04L-22R:extended centerline 1 right vectoring
+Runways:04L-22R:extended centerline 2
+Runways:04L-22R:extended centerline 2 left base
+Runways:04L-22R:extended centerline 2 left ticks
+Runways:04L-22R:extended centerline 2 left vectoring
+Runways:04L-22R:extended centerline 2 right base
+Runways:04L-22R:extended centerline 2 right ticks
+Runways:04L-22R:extended centerline 2 right vectoring
+Runways:04L-22R:name
+Runways:04R-22L:centerline
+Runways:04R-22L:extended centerline 1
+Runways:04R-22L:extended centerline 1 left base
+Runways:04R-22L:extended centerline 1 left ticks
+Runways:04R-22L:extended centerline 1 left vectoring
+Runways:04R-22L:extended centerline 1 right base
+Runways:04R-22L:extended centerline 1 right ticks
+Runways:04R-22L:extended centerline 1 right vectoring
+Runways:04R-22L:extended centerline 2
+Runways:04R-22L:extended centerline 2 left base
+Runways:04R-22L:extended centerline 2 left ticks
+Runways:04R-22L:extended centerline 2 left vectoring
+Runways:04R-22L:extended centerline 2 right base
+Runways:04R-22L:extended centerline 2 right ticks
+Runways:04R-22L:extended centerline 2 right vectoring
+Runways:04R-22L:name
+Runways:05-23:centerline
+Runways:05-23:extended centerline 1
+Runways:05-23:extended centerline 1 left base
+Runways:05-23:extended centerline 1 left ticks
+Runways:05-23:extended centerline 1 left vectoring
+Runways:05-23:extended centerline 1 right base
+Runways:05-23:extended centerline 1 right ticks
+Runways:05-23:extended centerline 1 right vectoring
+Runways:05-23:extended centerline 2
+Runways:05-23:extended centerline 2 left base
+Runways:05-23:extended centerline 2 left ticks
+Runways:05-23:extended centerline 2 left vectoring
+Runways:05-23:extended centerline 2 right base
+Runways:05-23:extended centerline 2 right ticks
+Runways:05-23:extended centerline 2 right vectoring
+Runways:05-23:name
+Runways:05L-23R:centerline
+Runways:05L-23R:extended centerline 1
+Runways:05L-23R:extended centerline 1 left base
+Runways:05L-23R:extended centerline 1 left ticks
+Runways:05L-23R:extended centerline 1 left vectoring
+Runways:05L-23R:extended centerline 1 right base
+Runways:05L-23R:extended centerline 1 right ticks
+Runways:05L-23R:extended centerline 1 right vectoring
+Runways:05L-23R:extended centerline 2
+Runways:05L-23R:extended centerline 2 left base
+Runways:05L-23R:extended centerline 2 left ticks
+Runways:05L-23R:extended centerline 2 left vectoring
+Runways:05L-23R:extended centerline 2 right base
+Runways:05L-23R:extended centerline 2 right ticks
+Runways:05L-23R:extended centerline 2 right vectoring
+Runways:05L-23R:name
+Runways:05R-23L:centerline
+Runways:05R-23L:extended centerline 1
+Runways:05R-23L:extended centerline 1 left base
+Runways:05R-23L:extended centerline 1 left ticks
+Runways:05R-23L:extended centerline 1 left vectoring
+Runways:05R-23L:extended centerline 1 right base
+Runways:05R-23L:extended centerline 1 right ticks
+Runways:05R-23L:extended centerline 1 right vectoring
+Runways:05R-23L:extended centerline 2
+Runways:05R-23L:extended centerline 2 left base
+Runways:05R-23L:extended centerline 2 left ticks
+Runways:05R-23L:extended centerline 2 left vectoring
+Runways:05R-23L:extended centerline 2 right base
+Runways:05R-23L:extended centerline 2 right ticks
+Runways:05R-23L:extended centerline 2 right vectoring
+Runways:05R-23L:name
+Runways:06-24:centerline
+Runways:06-24:extended centerline 1
+Runways:06-24:extended centerline 1 left base
+Runways:06-24:extended centerline 1 left ticks
+Runways:06-24:extended centerline 1 left vectoring
+Runways:06-24:extended centerline 1 right base
+Runways:06-24:extended centerline 1 right ticks
+Runways:06-24:extended centerline 1 right vectoring
+Runways:06-24:extended centerline 2
+Runways:06-24:extended centerline 2 left base
+Runways:06-24:extended centerline 2 left ticks
+Runways:06-24:extended centerline 2 left vectoring
+Runways:06-24:extended centerline 2 right base
+Runways:06-24:extended centerline 2 right ticks
+Runways:06-24:extended centerline 2 right vectoring
+Runways:06-24:name
+Runways:08-26:centerline
+Runways:08-26:extended centerline 1
+Runways:08-26:extended centerline 1 left base
+Runways:08-26:extended centerline 1 left ticks
+Runways:08-26:extended centerline 1 left vectoring
+Runways:08-26:extended centerline 1 right base
+Runways:08-26:extended centerline 1 right ticks
+Runways:08-26:extended centerline 1 right vectoring
+Runways:08-26:extended centerline 2
+Runways:08-26:extended centerline 2 left base
+Runways:08-26:extended centerline 2 left ticks
+Runways:08-26:extended centerline 2 left vectoring
+Runways:08-26:extended centerline 2 right base
+Runways:08-26:extended centerline 2 right ticks
+Runways:08-26:extended centerline 2 right vectoring
+Runways:08-26:name
+Runways:10-28:centerline
+Runways:10-28:extended centerline 1
+Runways:10-28:extended centerline 1 left base
+Runways:10-28:extended centerline 1 left ticks
+Runways:10-28:extended centerline 1 left vectoring
+Runways:10-28:extended centerline 1 right base
+Runways:10-28:extended centerline 1 right ticks
+Runways:10-28:extended centerline 1 right vectoring
+Runways:10-28:extended centerline 2
+Runways:10-28:extended centerline 2 left base
+Runways:10-28:extended centerline 2 left ticks
+Runways:10-28:extended centerline 2 left vectoring
+Runways:10-28:extended centerline 2 right base
+Runways:10-28:extended centerline 2 right ticks
+Runways:10-28:extended centerline 2 right vectoring
+Runways:10-28:name
+Runways:13-31:centerline
+Runways:13-31:extended centerline 1
+Runways:13-31:extended centerline 1 left base
+Runways:13-31:extended centerline 1 left ticks
+Runways:13-31:extended centerline 1 left vectoring
+Runways:13-31:extended centerline 1 right base
+Runways:13-31:extended centerline 1 right ticks
+Runways:13-31:extended centerline 1 right vectoring
+Runways:13-31:extended centerline 2
+Runways:13-31:extended centerline 2 left base
+Runways:13-31:extended centerline 2 left ticks
+Runways:13-31:extended centerline 2 left vectoring
+Runways:13-31:extended centerline 2 right base
+Runways:13-31:extended centerline 2 right ticks
+Runways:13-31:extended centerline 2 right vectoring
+Runways:13-31:name
+Runways:14-32:centerline
+Runways:14-32:extended centerline 1
+Runways:14-32:extended centerline 1 left base
+Runways:14-32:extended centerline 1 left ticks
+Runways:14-32:extended centerline 1 left vectoring
+Runways:14-32:extended centerline 1 right base
+Runways:14-32:extended centerline 1 right ticks
+Runways:14-32:extended centerline 1 right vectoring
+Runways:14-32:extended centerline 2
+Runways:14-32:extended centerline 2 left base
+Runways:14-32:extended centerline 2 left ticks
+Runways:14-32:extended centerline 2 left vectoring
+Runways:14-32:extended centerline 2 right base
+Runways:14-32:extended centerline 2 right ticks
+Runways:14-32:extended centerline 2 right vectoring
+Runways:14-32:name
+Runways:15-33:centerline
+Runways:15-33:extended centerline 1
+Runways:15-33:extended centerline 1 left base
+Runways:15-33:extended centerline 1 left ticks
+Runways:15-33:extended centerline 1 left vectoring
+Runways:15-33:extended centerline 1 right base
+Runways:15-33:extended centerline 1 right ticks
+Runways:15-33:extended centerline 1 right vectoring
+Runways:15-33:extended centerline 2
+Runways:15-33:extended centerline 2 left base
+Runways:15-33:extended centerline 2 left ticks
+Runways:15-33:extended centerline 2 left vectoring
+Runways:15-33:extended centerline 2 right base
+Runways:15-33:extended centerline 2 right ticks
+Runways:15-33:extended centerline 2 right vectoring
+Runways:15-33:name
+Runways:15L-33R:centerline
+Runways:15L-33R:extended centerline 1
+Runways:15L-33R:extended centerline 1 left base
+Runways:15L-33R:extended centerline 1 left ticks
+Runways:15L-33R:extended centerline 1 left vectoring
+Runways:15L-33R:extended centerline 1 right base
+Runways:15L-33R:extended centerline 1 right ticks
+Runways:15L-33R:extended centerline 1 right vectoring
+Runways:15L-33R:extended centerline 2
+Runways:15L-33R:extended centerline 2 left base
+Runways:15L-33R:extended centerline 2 left ticks
+Runways:15L-33R:extended centerline 2 left vectoring
+Runways:15L-33R:extended centerline 2 right base
+Runways:15L-33R:extended centerline 2 right ticks
+Runways:15L-33R:extended centerline 2 right vectoring
+Runways:15L-33R:name
+Runways:15R-33L:centerline
+Runways:15R-33L:extended centerline 1
+Runways:15R-33L:extended centerline 1 left base
+Runways:15R-33L:extended centerline 1 left ticks
+Runways:15R-33L:extended centerline 1 left vectoring
+Runways:15R-33L:extended centerline 1 right base
+Runways:15R-33L:extended centerline 1 right ticks
+Runways:15R-33L:extended centerline 1 right vectoring
+Runways:15R-33L:extended centerline 2
+Runways:15R-33L:extended centerline 2 left base
+Runways:15R-33L:extended centerline 2 left ticks
+Runways:15R-33L:extended centerline 2 left vectoring
+Runways:15R-33L:extended centerline 2 right base
+Runways:15R-33L:extended centerline 2 right ticks
+Runways:15R-33L:extended centerline 2 right vectoring
+Runways:15R-33L:name
+Runways:16-34:centerline
+Runways:16-34:extended centerline 1
+Runways:16-34:extended centerline 1 left base
+Runways:16-34:extended centerline 1 left ticks
+Runways:16-34:extended centerline 1 left vectoring
+Runways:16-34:extended centerline 1 right base
+Runways:16-34:extended centerline 1 right ticks
+Runways:16-34:extended centerline 1 right vectoring
+Runways:16-34:extended centerline 2
+Runways:16-34:extended centerline 2 left base
+Runways:16-34:extended centerline 2 left ticks
+Runways:16-34:extended centerline 2 left vectoring
+Runways:16-34:extended centerline 2 right base
+Runways:16-34:extended centerline 2 right ticks
+Runways:16-34:extended centerline 2 right vectoring
+Runways:16-34:name
+Runways:17-35:centerline
+Runways:17-35:extended centerline 1
+Runways:17-35:extended centerline 1 left base
+Runways:17-35:extended centerline 1 left ticks
+Runways:17-35:extended centerline 1 left vectoring
+Runways:17-35:extended centerline 1 right base
+Runways:17-35:extended centerline 1 right ticks
+Runways:17-35:extended centerline 1 right vectoring
+Runways:17-35:extended centerline 2
+Runways:17-35:extended centerline 2 left base
+Runways:17-35:extended centerline 2 left ticks
+Runways:17-35:extended centerline 2 left vectoring
+Runways:17-35:extended centerline 2 right base
+Runways:17-35:extended centerline 2 right ticks
+Runways:17-35:extended centerline 2 right vectoring
+Runways:17-35:name
+Runways:18-36:centerline
+Runways:18-36:extended centerline 1
+Runways:18-36:extended centerline 1 left base
+Runways:18-36:extended centerline 1 left ticks
+Runways:18-36:extended centerline 1 left vectoring
+Runways:18-36:extended centerline 1 right base
+Runways:18-36:extended centerline 1 right ticks
+Runways:18-36:extended centerline 1 right vectoring
+Runways:18-36:extended centerline 2
+Runways:18-36:extended centerline 2 left base
+Runways:18-36:extended centerline 2 left ticks
+Runways:18-36:extended centerline 2 left vectoring
+Runways:18-36:extended centerline 2 right base
+Runways:18-36:extended centerline 2 right ticks
+Runways:18-36:extended centerline 2 right vectoring
+Runways:18-36:name
+Runways:HEAR EL ARISH INTL 16-34:centerline
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 1
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 1 left base
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 1 left ticks
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 1 left vectoring
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 1 right base
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 1 right ticks
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 1 right vectoring
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 2
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 2 left base
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 2 left ticks
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 2 left vectoring
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 2 right base
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 2 right ticks
+Runways:HEAR EL ARISH INTL 16-34:extended centerline 2 right vectoring
+Runways:HEAR EL ARISH INTL 16-34:name
+Runways:HEAT ASYUT INTL 13-31:centerline
+Runways:HEAT ASYUT INTL 13-31:extended centerline 1
+Runways:HEAT ASYUT INTL 13-31:extended centerline 1 left base
+Runways:HEAT ASYUT INTL 13-31:extended centerline 1 left ticks
+Runways:HEAT ASYUT INTL 13-31:extended centerline 1 left vectoring
+Runways:HEAT ASYUT INTL 13-31:extended centerline 1 right base
+Runways:HEAT ASYUT INTL 13-31:extended centerline 1 right ticks
+Runways:HEAT ASYUT INTL 13-31:extended centerline 1 right vectoring
+Runways:HEAT ASYUT INTL 13-31:extended centerline 2
+Runways:HEAT ASYUT INTL 13-31:extended centerline 2 left base
+Runways:HEAT ASYUT INTL 13-31:extended centerline 2 left ticks
+Runways:HEAT ASYUT INTL 13-31:extended centerline 2 left vectoring
+Runways:HEAT ASYUT INTL 13-31:extended centerline 2 right base
+Runways:HEAT ASYUT INTL 13-31:extended centerline 2 right ticks
+Runways:HEAT ASYUT INTL 13-31:extended centerline 2 right vectoring
+Runways:HEAT ASYUT INTL 13-31:name
+Runways:HEAX Alexandria Intl 04-22:centerline
+Runways:HEAX Alexandria Intl 04-22:extended centerline 1
+Runways:HEAX Alexandria Intl 04-22:extended centerline 1 left base
+Runways:HEAX Alexandria Intl 04-22:extended centerline 1 left ticks
+Runways:HEAX Alexandria Intl 04-22:extended centerline 1 left vectoring
+Runways:HEAX Alexandria Intl 04-22:extended centerline 1 right base
+Runways:HEAX Alexandria Intl 04-22:extended centerline 1 right ticks
+Runways:HEAX Alexandria Intl 04-22:extended centerline 1 right vectoring
+Runways:HEAX Alexandria Intl 04-22:extended centerline 2
+Runways:HEAX Alexandria Intl 04-22:extended centerline 2 left base
+Runways:HEAX Alexandria Intl 04-22:extended centerline 2 left ticks
+Runways:HEAX Alexandria Intl 04-22:extended centerline 2 left vectoring
+Runways:HEAX Alexandria Intl 04-22:extended centerline 2 right base
+Runways:HEAX Alexandria Intl 04-22:extended centerline 2 right ticks
+Runways:HEAX Alexandria Intl 04-22:extended centerline 2 right vectoring
+Runways:HEAX Alexandria Intl 04-22:name
+Runways:HEAX Alexandria Intl 18-36:centerline
+Runways:HEAX Alexandria Intl 18-36:extended centerline 1
+Runways:HEAX Alexandria Intl 18-36:extended centerline 1 left base
+Runways:HEAX Alexandria Intl 18-36:extended centerline 1 left ticks
+Runways:HEAX Alexandria Intl 18-36:extended centerline 1 left vectoring
+Runways:HEAX Alexandria Intl 18-36:extended centerline 1 right base
+Runways:HEAX Alexandria Intl 18-36:extended centerline 1 right ticks
+Runways:HEAX Alexandria Intl 18-36:extended centerline 1 right vectoring
+Runways:HEAX Alexandria Intl 18-36:extended centerline 2
+Runways:HEAX Alexandria Intl 18-36:extended centerline 2 left base
+Runways:HEAX Alexandria Intl 18-36:extended centerline 2 left ticks
+Runways:HEAX Alexandria Intl 18-36:extended centerline 2 left vectoring
+Runways:HEAX Alexandria Intl 18-36:extended centerline 2 right base
+Runways:HEAX Alexandria Intl 18-36:extended centerline 2 right ticks
+Runways:HEAX Alexandria Intl 18-36:extended centerline 2 right vectoring
+Runways:HEAX Alexandria Intl 18-36:name
+Runways:HEAZ ALMAZA AB 18-36:centerline
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 1
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 1 left base
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 1 left ticks
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 1 left vectoring
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 1 right base
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 1 right ticks
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 1 right vectoring
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 2
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 2 left base
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 2 left ticks
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 2 left vectoring
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 2 right base
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 2 right ticks
+Runways:HEAZ ALMAZA AB 18-36:extended centerline 2 right vectoring
+Runways:HEAZ ALMAZA AB 18-36:name
+Runways:HEBA Borg El Arab Intl 14-32:centerline
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 1
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 1 left base
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 1 left ticks
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 1 left vectoring
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 1 right base
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 1 right ticks
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 1 right vectoring
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 2
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 2 left base
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 2 left ticks
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 2 left vectoring
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 2 right base
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 2 right ticks
+Runways:HEBA Borg El Arab Intl 14-32:extended centerline 2 right vectoring
+Runways:HEBA Borg El Arab Intl 14-32:name
+Runways:HEBL ABU SIMBEL 15R-33L:centerline
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 1
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 1 left base
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 1 left ticks
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 1 left vectoring
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 1 right base
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 1 right ticks
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 1 right vectoring
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 2
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 2 left base
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 2 left ticks
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 2 left vectoring
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 2 right base
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 2 right ticks
+Runways:HEBL ABU SIMBEL 15R-33L:extended centerline 2 right vectoring
+Runways:HEBL ABU SIMBEL 15R-33L:name
+Runways:HECA Cairo Intl 05C-23C:centerline
+Runways:HECA Cairo Intl 05C-23C:extended centerline 1
+Runways:HECA Cairo Intl 05C-23C:extended centerline 1 left base
+Runways:HECA Cairo Intl 05C-23C:extended centerline 1 left ticks
+Runways:HECA Cairo Intl 05C-23C:extended centerline 1 left vectoring
+Runways:HECA Cairo Intl 05C-23C:extended centerline 1 right base
+Runways:HECA Cairo Intl 05C-23C:extended centerline 1 right ticks
+Runways:HECA Cairo Intl 05C-23C:extended centerline 1 right vectoring
+Runways:HECA Cairo Intl 05C-23C:extended centerline 2
+Runways:HECA Cairo Intl 05C-23C:extended centerline 2 left base
+Runways:HECA Cairo Intl 05C-23C:extended centerline 2 left ticks
+Runways:HECA Cairo Intl 05C-23C:extended centerline 2 left vectoring
+Runways:HECA Cairo Intl 05C-23C:extended centerline 2 right base
+Runways:HECA Cairo Intl 05C-23C:extended centerline 2 right ticks
+Runways:HECA Cairo Intl 05C-23C:extended centerline 2 right vectoring
+Runways:HECA Cairo Intl 05C-23C:name
+Runways:HECA Cairo Intl 05L-23R:centerline
+Runways:HECA Cairo Intl 05L-23R:extended centerline 1
+Runways:HECA Cairo Intl 05L-23R:extended centerline 1 left base
+Runways:HECA Cairo Intl 05L-23R:extended centerline 1 left ticks
+Runways:HECA Cairo Intl 05L-23R:extended centerline 1 left vectoring
+Runways:HECA Cairo Intl 05L-23R:extended centerline 1 right base
+Runways:HECA Cairo Intl 05L-23R:extended centerline 1 right ticks
+Runways:HECA Cairo Intl 05L-23R:extended centerline 1 right vectoring
+Runways:HECA Cairo Intl 05L-23R:extended centerline 2
+Runways:HECA Cairo Intl 05L-23R:extended centerline 2 left base
+Runways:HECA Cairo Intl 05L-23R:extended centerline 2 left ticks
+Runways:HECA Cairo Intl 05L-23R:extended centerline 2 left vectoring
+Runways:HECA Cairo Intl 05L-23R:extended centerline 2 right base
+Runways:HECA Cairo Intl 05L-23R:extended centerline 2 right ticks
+Runways:HECA Cairo Intl 05L-23R:extended centerline 2 right vectoring
+Runways:HECA Cairo Intl 05L-23R:name
+Runways:HECA Cairo Intl 05R-23L:centerline
+Runways:HECA Cairo Intl 05R-23L:extended centerline 1
+Runways:HECA Cairo Intl 05R-23L:extended centerline 1 left base
+Runways:HECA Cairo Intl 05R-23L:extended centerline 1 left ticks
+Runways:HECA Cairo Intl 05R-23L:extended centerline 1 left vectoring
+Runways:HECA Cairo Intl 05R-23L:extended centerline 1 right base
+Runways:HECA Cairo Intl 05R-23L:extended centerline 1 right ticks
+Runways:HECA Cairo Intl 05R-23L:extended centerline 1 right vectoring
+Runways:HECA Cairo Intl 05R-23L:extended centerline 2
+Runways:HECA Cairo Intl 05R-23L:extended centerline 2 left base
+Runways:HECA Cairo Intl 05R-23L:extended centerline 2 left ticks
+Runways:HECA Cairo Intl 05R-23L:extended centerline 2 left vectoring
+Runways:HECA Cairo Intl 05R-23L:extended centerline 2 right base
+Runways:HECA Cairo Intl 05R-23L:extended centerline 2 right ticks
+Runways:HECA Cairo Intl 05R-23L:extended centerline 2 right vectoring
+Runways:HECA Cairo Intl 05R-23L:name
+Runways:HEDK DAKHLA 15-33:centerline
+Runways:HEDK DAKHLA 15-33:extended centerline 1
+Runways:HEDK DAKHLA 15-33:extended centerline 1 left base
+Runways:HEDK DAKHLA 15-33:extended centerline 1 left ticks
+Runways:HEDK DAKHLA 15-33:extended centerline 1 left vectoring
+Runways:HEDK DAKHLA 15-33:extended centerline 1 right base
+Runways:HEDK DAKHLA 15-33:extended centerline 1 right ticks
+Runways:HEDK DAKHLA 15-33:extended centerline 1 right vectoring
+Runways:HEDK DAKHLA 15-33:extended centerline 2
+Runways:HEDK DAKHLA 15-33:extended centerline 2 left base
+Runways:HEDK DAKHLA 15-33:extended centerline 2 left ticks
+Runways:HEDK DAKHLA 15-33:extended centerline 2 left vectoring
+Runways:HEDK DAKHLA 15-33:extended centerline 2 right base
+Runways:HEDK DAKHLA 15-33:extended centerline 2 right ticks
+Runways:HEDK DAKHLA 15-33:extended centerline 2 right vectoring
+Runways:HEDK DAKHLA 15-33:name
+Runways:HEGN Hurghada Intl 10-28:centerline
+Runways:HEGN Hurghada Intl 10-28:extended centerline 1
+Runways:HEGN Hurghada Intl 10-28:extended centerline 1 left base
+Runways:HEGN Hurghada Intl 10-28:extended centerline 1 left ticks
+Runways:HEGN Hurghada Intl 10-28:extended centerline 1 left vectoring
+Runways:HEGN Hurghada Intl 10-28:extended centerline 1 right base
+Runways:HEGN Hurghada Intl 10-28:extended centerline 1 right ticks
+Runways:HEGN Hurghada Intl 10-28:extended centerline 1 right vectoring
+Runways:HEGN Hurghada Intl 10-28:extended centerline 2
+Runways:HEGN Hurghada Intl 10-28:extended centerline 2 left base
+Runways:HEGN Hurghada Intl 10-28:extended centerline 2 left ticks
+Runways:HEGN Hurghada Intl 10-28:extended centerline 2 left vectoring
+Runways:HEGN Hurghada Intl 10-28:extended centerline 2 right base
+Runways:HEGN Hurghada Intl 10-28:extended centerline 2 right ticks
+Runways:HEGN Hurghada Intl 10-28:extended centerline 2 right vectoring
+Runways:HEGN Hurghada Intl 10-28:name
+Runways:HEGN Hurghada Intl 16-34:centerline
+Runways:HEGN Hurghada Intl 16-34:extended centerline 1
+Runways:HEGN Hurghada Intl 16-34:extended centerline 1 left base
+Runways:HEGN Hurghada Intl 16-34:extended centerline 1 left ticks
+Runways:HEGN Hurghada Intl 16-34:extended centerline 1 left vectoring
+Runways:HEGN Hurghada Intl 16-34:extended centerline 1 right base
+Runways:HEGN Hurghada Intl 16-34:extended centerline 1 right ticks
+Runways:HEGN Hurghada Intl 16-34:extended centerline 1 right vectoring
+Runways:HEGN Hurghada Intl 16-34:extended centerline 2
+Runways:HEGN Hurghada Intl 16-34:extended centerline 2 left base
+Runways:HEGN Hurghada Intl 16-34:extended centerline 2 left ticks
+Runways:HEGN Hurghada Intl 16-34:extended centerline 2 left vectoring
+Runways:HEGN Hurghada Intl 16-34:extended centerline 2 right base
+Runways:HEGN Hurghada Intl 16-34:extended centerline 2 right ticks
+Runways:HEGN Hurghada Intl 16-34:extended centerline 2 right vectoring
+Runways:HEGN Hurghada Intl 16-34:name
+Runways:HEGN Hurghada Intl 31-13:centerline
+Runways:HEGN Hurghada Intl 31-13:extended centerline 1
+Runways:HEGN Hurghada Intl 31-13:extended centerline 1 left base
+Runways:HEGN Hurghada Intl 31-13:extended centerline 1 left ticks
+Runways:HEGN Hurghada Intl 31-13:extended centerline 1 left vectoring
+Runways:HEGN Hurghada Intl 31-13:extended centerline 1 right base
+Runways:HEGN Hurghada Intl 31-13:extended centerline 1 right ticks
+Runways:HEGN Hurghada Intl 31-13:extended centerline 1 right vectoring
+Runways:HEGN Hurghada Intl 31-13:extended centerline 2
+Runways:HEGN Hurghada Intl 31-13:extended centerline 2 left base
+Runways:HEGN Hurghada Intl 31-13:extended centerline 2 left ticks
+Runways:HEGN Hurghada Intl 31-13:extended centerline 2 left vectoring
+Runways:HEGN Hurghada Intl 31-13:extended centerline 2 right base
+Runways:HEGN Hurghada Intl 31-13:extended centerline 2 right ticks
+Runways:HEGN Hurghada Intl 31-13:extended centerline 2 right vectoring
+Runways:HEGN Hurghada Intl 31-13:name
+Runways:HEGN Hurghada Intl 34-16:centerline
+Runways:HEGN Hurghada Intl 34-16:extended centerline 1
+Runways:HEGN Hurghada Intl 34-16:extended centerline 1 left base
+Runways:HEGN Hurghada Intl 34-16:extended centerline 1 left ticks
+Runways:HEGN Hurghada Intl 34-16:extended centerline 1 left vectoring
+Runways:HEGN Hurghada Intl 34-16:extended centerline 1 right base
+Runways:HEGN Hurghada Intl 34-16:extended centerline 1 right ticks
+Runways:HEGN Hurghada Intl 34-16:extended centerline 1 right vectoring
+Runways:HEGN Hurghada Intl 34-16:extended centerline 2
+Runways:HEGN Hurghada Intl 34-16:extended centerline 2 left base
+Runways:HEGN Hurghada Intl 34-16:extended centerline 2 left ticks
+Runways:HEGN Hurghada Intl 34-16:extended centerline 2 left vectoring
+Runways:HEGN Hurghada Intl 34-16:extended centerline 2 right base
+Runways:HEGN Hurghada Intl 34-16:extended centerline 2 right ticks
+Runways:HEGN Hurghada Intl 34-16:extended centerline 2 right vectoring
+Runways:HEGN Hurghada Intl 34-16:name
+Runways:HEGR EL GORA 08-26:centerline
+Runways:HEGR EL GORA 08-26:extended centerline 1
+Runways:HEGR EL GORA 08-26:extended centerline 1 left base
+Runways:HEGR EL GORA 08-26:extended centerline 1 left ticks
+Runways:HEGR EL GORA 08-26:extended centerline 1 left vectoring
+Runways:HEGR EL GORA 08-26:extended centerline 1 right base
+Runways:HEGR EL GORA 08-26:extended centerline 1 right ticks
+Runways:HEGR EL GORA 08-26:extended centerline 1 right vectoring
+Runways:HEGR EL GORA 08-26:extended centerline 2
+Runways:HEGR EL GORA 08-26:extended centerline 2 left base
+Runways:HEGR EL GORA 08-26:extended centerline 2 left ticks
+Runways:HEGR EL GORA 08-26:extended centerline 2 left vectoring
+Runways:HEGR EL GORA 08-26:extended centerline 2 right base
+Runways:HEGR EL GORA 08-26:extended centerline 2 right ticks
+Runways:HEGR EL GORA 08-26:extended centerline 2 right vectoring
+Runways:HEGR EL GORA 08-26:name
+Runways:HEGR EL GORA 17-35:centerline
+Runways:HEGR EL GORA 17-35:extended centerline 1
+Runways:HEGR EL GORA 17-35:extended centerline 1 left base
+Runways:HEGR EL GORA 17-35:extended centerline 1 left ticks
+Runways:HEGR EL GORA 17-35:extended centerline 1 left vectoring
+Runways:HEGR EL GORA 17-35:extended centerline 1 right base
+Runways:HEGR EL GORA 17-35:extended centerline 1 right ticks
+Runways:HEGR EL GORA 17-35:extended centerline 1 right vectoring
+Runways:HEGR EL GORA 17-35:extended centerline 2
+Runways:HEGR EL GORA 17-35:extended centerline 2 left base
+Runways:HEGR EL GORA 17-35:extended centerline 2 left ticks
+Runways:HEGR EL GORA 17-35:extended centerline 2 left vectoring
+Runways:HEGR EL GORA 17-35:extended centerline 2 right base
+Runways:HEGR EL GORA 17-35:extended centerline 2 right ticks
+Runways:HEGR EL GORA 17-35:extended centerline 2 right vectoring
+Runways:HEGR EL GORA 17-35:name
+Runways:HEKG EL KHARGA 18-36:centerline
+Runways:HEKG EL KHARGA 18-36:extended centerline 1
+Runways:HEKG EL KHARGA 18-36:extended centerline 1 left base
+Runways:HEKG EL KHARGA 18-36:extended centerline 1 left ticks
+Runways:HEKG EL KHARGA 18-36:extended centerline 1 left vectoring
+Runways:HEKG EL KHARGA 18-36:extended centerline 1 right base
+Runways:HEKG EL KHARGA 18-36:extended centerline 1 right ticks
+Runways:HEKG EL KHARGA 18-36:extended centerline 1 right vectoring
+Runways:HEKG EL KHARGA 18-36:extended centerline 2
+Runways:HEKG EL KHARGA 18-36:extended centerline 2 left base
+Runways:HEKG EL KHARGA 18-36:extended centerline 2 left ticks
+Runways:HEKG EL KHARGA 18-36:extended centerline 2 left vectoring
+Runways:HEKG EL KHARGA 18-36:extended centerline 2 right base
+Runways:HEKG EL KHARGA 18-36:extended centerline 2 right ticks
+Runways:HEKG EL KHARGA 18-36:extended centerline 2 right vectoring
+Runways:HEKG EL KHARGA 18-36:name
+Runways:HELX LUXOR INTL 02-20:centerline
+Runways:HELX LUXOR INTL 02-20:extended centerline 1
+Runways:HELX LUXOR INTL 02-20:extended centerline 1 left base
+Runways:HELX LUXOR INTL 02-20:extended centerline 1 left ticks
+Runways:HELX LUXOR INTL 02-20:extended centerline 1 left vectoring
+Runways:HELX LUXOR INTL 02-20:extended centerline 1 right base
+Runways:HELX LUXOR INTL 02-20:extended centerline 1 right ticks
+Runways:HELX LUXOR INTL 02-20:extended centerline 1 right vectoring
+Runways:HELX LUXOR INTL 02-20:extended centerline 2
+Runways:HELX LUXOR INTL 02-20:extended centerline 2 left base
+Runways:HELX LUXOR INTL 02-20:extended centerline 2 left ticks
+Runways:HELX LUXOR INTL 02-20:extended centerline 2 left vectoring
+Runways:HELX LUXOR INTL 02-20:extended centerline 2 right base
+Runways:HELX LUXOR INTL 02-20:extended centerline 2 right ticks
+Runways:HELX LUXOR INTL 02-20:extended centerline 2 right vectoring
+Runways:HELX LUXOR INTL 02-20:name
+Runways:HEMA MARSA ALAM INTL 15-33:centerline
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 1
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 1 left base
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 1 left ticks
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 1 left vectoring
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 1 right base
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 1 right ticks
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 1 right vectoring
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 2
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 2 left base
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 2 left ticks
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 2 left vectoring
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 2 right base
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 2 right ticks
+Runways:HEMA MARSA ALAM INTL 15-33:extended centerline 2 right vectoring
+Runways:HEMA MARSA ALAM INTL 15-33:name
+Runways:HEMK Sohag International 33-15:centerline
+Runways:HEMK Sohag International 33-15:extended centerline 1
+Runways:HEMK Sohag International 33-15:extended centerline 1 left base
+Runways:HEMK Sohag International 33-15:extended centerline 1 left ticks
+Runways:HEMK Sohag International 33-15:extended centerline 1 left vectoring
+Runways:HEMK Sohag International 33-15:extended centerline 1 right base
+Runways:HEMK Sohag International 33-15:extended centerline 1 right ticks
+Runways:HEMK Sohag International 33-15:extended centerline 1 right vectoring
+Runways:HEMK Sohag International 33-15:extended centerline 2
+Runways:HEMK Sohag International 33-15:extended centerline 2 left base
+Runways:HEMK Sohag International 33-15:extended centerline 2 left ticks
+Runways:HEMK Sohag International 33-15:extended centerline 2 left vectoring
+Runways:HEMK Sohag International 33-15:extended centerline 2 right base
+Runways:HEMK Sohag International 33-15:extended centerline 2 right ticks
+Runways:HEMK Sohag International 33-15:extended centerline 2 right vectoring
+Runways:HEMK Sohag International 33-15:name
+Runways:HEMM Mersa Matruh 06-24:centerline
+Runways:HEMM Mersa Matruh 06-24:extended centerline 1
+Runways:HEMM Mersa Matruh 06-24:extended centerline 1 left base
+Runways:HEMM Mersa Matruh 06-24:extended centerline 1 left ticks
+Runways:HEMM Mersa Matruh 06-24:extended centerline 1 left vectoring
+Runways:HEMM Mersa Matruh 06-24:extended centerline 1 right base
+Runways:HEMM Mersa Matruh 06-24:extended centerline 1 right ticks
+Runways:HEMM Mersa Matruh 06-24:extended centerline 1 right vectoring
+Runways:HEMM Mersa Matruh 06-24:extended centerline 2
+Runways:HEMM Mersa Matruh 06-24:extended centerline 2 left base
+Runways:HEMM Mersa Matruh 06-24:extended centerline 2 left ticks
+Runways:HEMM Mersa Matruh 06-24:extended centerline 2 left vectoring
+Runways:HEMM Mersa Matruh 06-24:extended centerline 2 right base
+Runways:HEMM Mersa Matruh 06-24:extended centerline 2 right ticks
+Runways:HEMM Mersa Matruh 06-24:extended centerline 2 right vectoring
+Runways:HEMM Mersa Matruh 06-24:name
+Runways:HEMM Mersa Matruh 15-33:centerline
+Runways:HEMM Mersa Matruh 15-33:extended centerline 1
+Runways:HEMM Mersa Matruh 15-33:extended centerline 1 left base
+Runways:HEMM Mersa Matruh 15-33:extended centerline 1 left ticks
+Runways:HEMM Mersa Matruh 15-33:extended centerline 1 left vectoring
+Runways:HEMM Mersa Matruh 15-33:extended centerline 1 right base
+Runways:HEMM Mersa Matruh 15-33:extended centerline 1 right ticks
+Runways:HEMM Mersa Matruh 15-33:extended centerline 1 right vectoring
+Runways:HEMM Mersa Matruh 15-33:extended centerline 2
+Runways:HEMM Mersa Matruh 15-33:extended centerline 2 left base
+Runways:HEMM Mersa Matruh 15-33:extended centerline 2 left ticks
+Runways:HEMM Mersa Matruh 15-33:extended centerline 2 left vectoring
+Runways:HEMM Mersa Matruh 15-33:extended centerline 2 right base
+Runways:HEMM Mersa Matruh 15-33:extended centerline 2 right ticks
+Runways:HEMM Mersa Matruh 15-33:extended centerline 2 right vectoring
+Runways:HEMM Mersa Matruh 15-33:name
+Runways:HEOC OCTOBER 01-19:centerline
+Runways:HEOC OCTOBER 01-19:extended centerline 1
+Runways:HEOC OCTOBER 01-19:extended centerline 1 left base
+Runways:HEOC OCTOBER 01-19:extended centerline 1 left ticks
+Runways:HEOC OCTOBER 01-19:extended centerline 1 left vectoring
+Runways:HEOC OCTOBER 01-19:extended centerline 1 right base
+Runways:HEOC OCTOBER 01-19:extended centerline 1 right ticks
+Runways:HEOC OCTOBER 01-19:extended centerline 1 right vectoring
+Runways:HEOC OCTOBER 01-19:extended centerline 2
+Runways:HEOC OCTOBER 01-19:extended centerline 2 left base
+Runways:HEOC OCTOBER 01-19:extended centerline 2 left ticks
+Runways:HEOC OCTOBER 01-19:extended centerline 2 left vectoring
+Runways:HEOC OCTOBER 01-19:extended centerline 2 right base
+Runways:HEOC OCTOBER 01-19:extended centerline 2 right ticks
+Runways:HEOC OCTOBER 01-19:extended centerline 2 right vectoring
+Runways:HEOC OCTOBER 01-19:name
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:centerline
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 1
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 1 left base
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 1 left ticks
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 1 left vectoring
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 1 right base
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 1 right ticks
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 1 right vectoring
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 2
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 2 left base
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 2 left ticks
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 2 left vectoring
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 2 right base
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 2 right ticks
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:extended centerline 2 right vectoring
+Runways:HEOW SHARK EL OWEINAT INTL 01-19:name
+Runways:HEPS PORT SAID 10-28:centerline
+Runways:HEPS PORT SAID 10-28:extended centerline 1
+Runways:HEPS PORT SAID 10-28:extended centerline 1 left base
+Runways:HEPS PORT SAID 10-28:extended centerline 1 left ticks
+Runways:HEPS PORT SAID 10-28:extended centerline 1 left vectoring
+Runways:HEPS PORT SAID 10-28:extended centerline 1 right base
+Runways:HEPS PORT SAID 10-28:extended centerline 1 right ticks
+Runways:HEPS PORT SAID 10-28:extended centerline 1 right vectoring
+Runways:HEPS PORT SAID 10-28:extended centerline 2
+Runways:HEPS PORT SAID 10-28:extended centerline 2 left base
+Runways:HEPS PORT SAID 10-28:extended centerline 2 left ticks
+Runways:HEPS PORT SAID 10-28:extended centerline 2 left vectoring
+Runways:HEPS PORT SAID 10-28:extended centerline 2 right base
+Runways:HEPS PORT SAID 10-28:extended centerline 2 right ticks
+Runways:HEPS PORT SAID 10-28:extended centerline 2 right vectoring
+Runways:HEPS PORT SAID 10-28:name
+Runways:HESC ST CATHERINE INTL 17-35:centerline
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 1
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 1 left base
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 1 left ticks
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 1 left vectoring
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 1 right base
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 1 right ticks
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 1 right vectoring
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 2
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 2 left base
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 2 left ticks
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 2 left vectoring
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 2 right base
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 2 right ticks
+Runways:HESC ST CATHERINE INTL 17-35:extended centerline 2 right vectoring
+Runways:HESC ST CATHERINE INTL 17-35:name
+Runways:HESH Sharm El Sheikh Intl 04L-22R:centerline
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 1
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 1 left base
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 1 left ticks
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 1 left vectoring
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 1 right base
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 1 right ticks
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 1 right vectoring
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 2
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 2 left base
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 2 left ticks
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 2 left vectoring
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 2 right base
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 2 right ticks
+Runways:HESH Sharm El Sheikh Intl 04L-22R:extended centerline 2 right vectoring
+Runways:HESH Sharm El Sheikh Intl 04L-22R:name
+Runways:HESH Sharm El Sheikh Intl 04R-22L:centerline
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 1
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 1 left base
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 1 left ticks
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 1 left vectoring
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 1 right base
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 1 right ticks
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 1 right vectoring
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 2
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 2 left base
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 2 left ticks
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 2 left vectoring
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 2 right base
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 2 right ticks
+Runways:HESH Sharm El Sheikh Intl 04R-22L:extended centerline 2 right vectoring
+Runways:HESH Sharm El Sheikh Intl 04R-22L:name
+Runways:HESN ASWAN INTL 17-35:centerline
+Runways:HESN ASWAN INTL 17-35:extended centerline 1
+Runways:HESN ASWAN INTL 17-35:extended centerline 1 left base
+Runways:HESN ASWAN INTL 17-35:extended centerline 1 left ticks
+Runways:HESN ASWAN INTL 17-35:extended centerline 1 left vectoring
+Runways:HESN ASWAN INTL 17-35:extended centerline 1 right base
+Runways:HESN ASWAN INTL 17-35:extended centerline 1 right ticks
+Runways:HESN ASWAN INTL 17-35:extended centerline 1 right vectoring
+Runways:HESN ASWAN INTL 17-35:extended centerline 2
+Runways:HESN ASWAN INTL 17-35:extended centerline 2 left base
+Runways:HESN ASWAN INTL 17-35:extended centerline 2 left ticks
+Runways:HESN ASWAN INTL 17-35:extended centerline 2 left vectoring
+Runways:HESN ASWAN INTL 17-35:extended centerline 2 right base
+Runways:HESN ASWAN INTL 17-35:extended centerline 2 right ticks
+Runways:HESN ASWAN INTL 17-35:extended centerline 2 right vectoring
+Runways:HESN ASWAN INTL 17-35:name
+Runways:HETB TABA INTL 04-22:centerline
+Runways:HETB TABA INTL 04-22:extended centerline 1
+Runways:HETB TABA INTL 04-22:extended centerline 1 left base
+Runways:HETB TABA INTL 04-22:extended centerline 1 left ticks
+Runways:HETB TABA INTL 04-22:extended centerline 1 left vectoring
+Runways:HETB TABA INTL 04-22:extended centerline 1 right base
+Runways:HETB TABA INTL 04-22:extended centerline 1 right ticks
+Runways:HETB TABA INTL 04-22:extended centerline 1 right vectoring
+Runways:HETB TABA INTL 04-22:extended centerline 2
+Runways:HETB TABA INTL 04-22:extended centerline 2 left base
+Runways:HETB TABA INTL 04-22:extended centerline 2 left ticks
+Runways:HETB TABA INTL 04-22:extended centerline 2 left vectoring
+Runways:HETB TABA INTL 04-22:extended centerline 2 right base
+Runways:HETB TABA INTL 04-22:extended centerline 2 right ticks
+Runways:HETB TABA INTL 04-22:extended centerline 2 right vectoring
+Runways:HETB TABA INTL 04-22:name
+Runways:HETR EL TOR 10-28:centerline
+Runways:HETR EL TOR 10-28:extended centerline 1
+Runways:HETR EL TOR 10-28:extended centerline 1 left base
+Runways:HETR EL TOR 10-28:extended centerline 1 left ticks
+Runways:HETR EL TOR 10-28:extended centerline 1 left vectoring
+Runways:HETR EL TOR 10-28:extended centerline 1 right base
+Runways:HETR EL TOR 10-28:extended centerline 1 right ticks
+Runways:HETR EL TOR 10-28:extended centerline 1 right vectoring
+Runways:HETR EL TOR 10-28:extended centerline 2
+Runways:HETR EL TOR 10-28:extended centerline 2 left base
+Runways:HETR EL TOR 10-28:extended centerline 2 left ticks
+Runways:HETR EL TOR 10-28:extended centerline 2 left vectoring
+Runways:HETR EL TOR 10-28:extended centerline 2 right base
+Runways:HETR EL TOR 10-28:extended centerline 2 right ticks
+Runways:HETR EL TOR 10-28:extended centerline 2 right vectoring
+Runways:HETR EL TOR 10-28:name
+VORs:AQB:frequency
+VORs:AQB:name
+VORs:AQB:symbol
+VORs:ARH:frequency
+VORs:ARH:frequency
+VORs:ARH:name
+VORs:ARH:name
+VORs:ARH:symbol
+VORs:ARH:symbol
+VORs:ASN:frequency
+VORs:ASN:name
+VORs:ASN:symbol
+VORs:AST:frequency
+VORs:AST:name
+VORs:AST:symbol
+VORs:AXD:frequency
+VORs:AXD:name
+VORs:AXD:symbol
+VORs:BLT:frequency
+VORs:BLT:name
+VORs:BLT:symbol
+VORs:BRN:frequency
+VORs:BRN:name
+VORs:BRN:symbol
+VORs:CAI:frequency
+VORs:CAI:name
+VORs:CAI:symbol
+VORs:CVO:frequency
+VORs:CVO:name
+VORs:CVO:symbol
+VORs:DBA:frequency
+VORs:DBA:name
+VORs:DBA:symbol
+VORs:FYM:frequency
+VORs:FYM:name
+VORs:FYM:symbol
+VORs:GZA:frequency
+VORs:GZA:name
+VORs:GZA:symbol
+VORs:HGD:frequency
+VORs:HGD:frequency
+VORs:HGD:name
+VORs:HGD:name
+VORs:HGD:symbol
+VORs:HGD:symbol
+VORs:LOT:frequency
+VORs:LOT:name
+VORs:LOT:symbol
+VORs:LXR:frequency
+VORs:LXR:name
+VORs:LXR:symbol
+VORs:MAK:frequency
+VORs:MAK:frequency
+VORs:MAK:name
+VORs:MAK:name
+VORs:MAK:symbol
+VORs:MAK:symbol
+VORs:MXR:frequency
+VORs:MXR:name
+VORs:MXR:symbol
+VORs:MZD:frequency
+VORs:MZD:name
+VORs:MZD:symbol
+VORs:NWV:frequency
+VORs:NWV:name
+VORs:NWV:symbol
+VORs:OVD:frequency
+VORs:OVD:name
+VORs:OVD:symbol
+VORs:PSD:frequency
+VORs:PSD:frequency
+VORs:PSD:name
+VORs:PSD:name
+VORs:PSD:symbol
+VORs:PSD:symbol
+VORs:SHM:frequency
+VORs:SHM:frequency
+VORs:SHM:name
+VORs:SHM:name
+VORs:SHM:symbol
+VORs:SHM:symbol
+VORs:SML:frequency
+VORs:SML:name
+VORs:SML:symbol
+VORs:TAB:frequency
+VORs:TAB:name
+VORs:TAB:symbol
+VORs:TBA:frequency
+VORs:TBA:name
+VORs:TBA:symbol
+VORs:WEJ:frequency
+VORs:WEJ:name
+VORs:WEJ:symbol
+VORs:ZFR:frequency
+VORs:ZFR:name
+VORs:ZFR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:18.272268:13.685482:35.812946:55.179368

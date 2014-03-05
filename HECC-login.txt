@@ -1,0 +1,5 @@
+PROFILE
+PROFILE:GULF_FSS:900:1
+ATIS2:Gulf Control
+ATIS3:UIR ATC for: Egypt, UAE, Iraq, Syria, Lebanon, Yemen, Jordan, Oman, Bahrain, Iran, Saudia and Kuwait
+ATIS4:Report Position , Level and Aircraft type on initial contact
