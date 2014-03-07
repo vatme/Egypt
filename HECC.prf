@@ -2,6 +2,10 @@ Settings	sector	\HECC.sct
 Settings	Settingsfile	\HECC-settings.txt
 Settings	AselKey	1769472
 Settings	FreqKey	2818048
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
 Voice	PPPT	18677760
 Settings	alias	\HECC-settings.txt
 Settings	AtisFolder	\UniATIS_HECC\atisfiles.txt
@@ -14,7 +18,6 @@ Settings	SettingsfileSIL	\HECC-settings.txt
 Settings	SettingsfileSEL	\HECC-settings.txt
 Settings	SettingsfileDEP	\HECC-settings.txt
 Settings	SettingsfilePLUGINS	\HECC-settings.txt
-Settings	airways	\..\DataFiles\AIRWAY.txt
 Settings	SettingsfileSCREEN	\HECC-settings.txt
 Voice	Grammar	\..\Settings\ESGrammar.txt
 Settings	SectorFileProviderDescriptor	\..\SectorFileProviderDescriptor.txt
@@ -23,11 +26,6 @@ Settings	SettingsfileARR	\HECC-settings.txt
 Settings	SettingsfileFP	\HECC-settings.txt
 Settings	SettingsfileCONFLICT	\HECC-settings.txt
 LastSession	connecttype	0
-LastSession	facility	6
-LastSession	rating	4
-LastSession	range	600
-LastSession	callsign	HECC_CTR
-LastSession	server	USA-E2
 Voice	input_hardware	DirectSound - Integrated Microphone Array (IDT High Definition Audio CODEC)
 Voice	output_hardware	Wave - Speakers and Headphones (IDT Hi
 Voice	input_hardware2	Wave - Integrated Microphone Array (ID
@@ -37,6 +35,3 @@ Plugins	Plugin0	\Eurocat 2000E\E2kEplugin.dll
 LastSession	atis2	Cairo Control
 LastSession	atis3	Report position and altitude on first contact
 LastSession	atis4	visit ---> vateg.net
-LastSession	scenario	C:\Users\SYAM\Documents\EuroScope\training\OJAC.txt
-LastSession	atis_airport	HECA
-LastSession	atis_letter	66
