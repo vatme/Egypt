@@ -174,7 +174,7 @@ NDBs:name:8421504:3.0:0:0:12
 NDBs:frequency:8421504:3.0:0:0:0
 Runways:centerline:9539985:3.5:0:0:7
 Runways:extended centerline:3158064:3.5:2:0:7
-Runways:name:8421504:2.0:0:0:7
+Runways:name:2095855:4.0:0:0:7
 Datablock:non concerned:8388863:3.5:0:0:7
 Datablock:notified:65535:3.5:0:0:7
 Datablock:assumed:65280:3.5:0:0:7
