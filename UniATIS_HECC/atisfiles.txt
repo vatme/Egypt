@@ -90,6 +90,9 @@ RECORD:haze:hz.wav
 RECORD:heavy:heavy.wav
 RECORD:heavy:heavy.wav
 RECORD:HECA:heca.wav
+RECORD:HESH:hesh.wav
+RECORD:HEGN:hegn.wav
+RECORD:HELX:helx.wav
 RECORD:helsinki delivery closed:delclsd.wav
 RECORD:Helsinki-Vantaa:efhk.wav
 RECORD:hundred:hundred.wav
