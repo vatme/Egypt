@@ -15,4 +15,56 @@ PROFILE:HECA_GND:15:3
 ATIS2:Cairo Ground
 ATIS3:Report position and altitude on first contact
 ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HECC_W_CTR:500:6
+ATIS2:Cairo West Control
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HECC_E_CTR:500:6
+ATIS2:Cairo East Control
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HECC_N_CTR:500:6
+ATIS2:Cairo North Control
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HECC_S_CTR:500:6
+ATIS2:Cairo South Control
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HEGN_APP:120:5
+ATIS2:Hurghada Approach
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HEGN_TWR:50:4
+ATIS2:Hurghada Tower
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HEGN_GND:20:3
+ATIS2:Hurghada Ground
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HELX_APP:120:5
+ATIS2:Luxor Approach
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HELX_TWR:40:4
+ATIS2:Luxor Tower
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HELX_GND:20:3
+ATIS2:Luxor Ground
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HESH_APP:120:5
+ATIS2:Sharm El Sheikh Approach
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HESH_TWR:45:4
+ATIS2:Sharm El Sheikh Tower
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HESH_GND:20:3
+ATIS2:Sharm El Sheikh Ground
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
 END
