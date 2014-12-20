@@ -1,5 +1,18 @@
 PROFILE
-PROFILE:GULF_FSS:900:1
-ATIS2:Gulf Control
-ATIS3:UIR ATC for: Egypt, UAE, Iraq, Syria, Lebanon, Yemen, Jordan, Oman, Bahrain, Iran, Saudia and Kuwait
-ATIS4:Report Position , Level and Aircraft type on initial contact
+PROFILE:HECC_CTR:500:6
+ATIS2:Cairo Control
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HECA_APP:120:5
+ATIS2:Cairo Approach
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HECA_TWR:40:4
+ATIS2:Cairo Tower
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+PROFILE:HECA_GND:15:3
+ATIS2:Cairo Ground
+ATIS3:Report position and altitude on first contact
+ATIS4:Monitor ATIS before contact. Visit vateg.net
+END

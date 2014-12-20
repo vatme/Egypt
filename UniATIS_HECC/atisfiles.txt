@@ -14,7 +14,7 @@ RECORD:9:niner.wav
 RECORD:a:a.wav
 RECORD:AbuDhabi international airport:omaa.wav
 RECORD:AC:ac.wav
-RECORD:advise on initial contact you have information:oninitial.wav
+RECORD:advice ATC  that you copied information:oninitial.wav
 RECORD:after:after.wav
 RECORD:Al-Ain international airport:omal.wav
 RECORD:all runways:allrwy.wav
@@ -59,6 +59,7 @@ RECORD:deposits two five to five zero percent:25to50pct.wav
 RECORD:dew point:dew.wav
 RECORD:downgrading:downgrading.wav
 RECORD:drizzle:dz.wav
+RECORD:Dubai International airport:omdb.wav
 RECORD:dust whirls:po.wav
 RECORD:duststorm:ds.wav
 RECORD:e:e.wav
@@ -88,7 +89,7 @@ RECORD:h:h.wav
 RECORD:haze:hz.wav
 RECORD:heavy:heavy.wav
 RECORD:heavy:heavy.wav
-RECORD:HECA:HECA.wav
+RECORD:HECA:heca.wav
 RECORD:helsinki delivery closed:delclsd.wav
 RECORD:Helsinki-Vantaa:efhk.wav
 RECORD:hundred:hundred.wav
@@ -132,7 +133,6 @@ RECORD:northeast:northeast.wav
 RECORD:northwest:northwest.wav
 RECORD:NOSIG:nosig.wav
 RECORD:o:o.wav
-RECORD:OMAA:omaa.wav
 RECORD:or:or.wav
 RECORD:Oulu:efou.wav
 RECORD:overcast:ovc.wav
@@ -229,30 +229,25 @@ RECORD:x:x.wav
 RECORD:y:y.wav
 RECORD:z:z.wav
 ITEM:This is:XXX
-ITEM:HECA:XXX
+ITEM:OOMS:
 ITEM:information:XXX
-ITEM:B:
+ITEM:D:
 ITEM:at time:XXX
-ITEM:2000:
+ITEM:1550:
 ITEM:expect ILS approach:XXX
-ITEM:arrival runway:XXX
-ITEM:05R:
-ITEM:departure runway:XXX
-ITEM:05L:
+ITEM:runway:XXX
+ITEM:08:
+ITEM:in use:XXX
 ITEM:transition level:XXX
 ITEM:55:
-ITEM:wind:XXX
-ITEM:300:
-ITEM:degrees:XXX
-ITEM:9:
-ITEM:knots:XXX
+ITEM:wind calm:XXX
 ITEM:CAVOK:XXX
 ITEM:temperature:XXX
-ITEM:27:
+ITEM:32:
 ITEM:dew point:XXX
-ITEM:20:
+ITEM:23:
 ITEM:QNH:XXX
-ITEM:1008:
+ITEM:1002:
 ITEM:NOSIG:XXX
 ITEM:advise on initial contact you have information:XXX
-ITEM:B:
+ITEM:D:

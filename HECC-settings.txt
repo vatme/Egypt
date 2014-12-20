@@ -142,8 +142,8 @@ m_ScreenNumber:0
 m_ScreenPosition:0
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
-m_PlanesListX:-44
-m_PlanesListY:0
+m_PlanesListX:1331
+m_PlanesListY:16
 m_MetarListX:1521
 m_MetarListY:19
 m_VoiceListX:1714
@@ -915,8 +915,8 @@ TAGITEM:17::0:1:10:14::0:1:::1
 END
 SIL
 m_Visible:1
-m_X:1295
-m_Y:842
+m_X:1306
+m_Y:821
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:9
@@ -943,8 +943,8 @@ m_Column:ASSR:5:1:60:31:31:1::::1867398211
 END
 SEL
 m_Visible:1
-m_X:645
-m_Y:843
+m_X:387
+m_Y:820
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:6
@@ -1023,16 +1023,16 @@ m_Column:STS:6:1:82:34:34:1::::1867398211
 END
 PLUGINS
 EUROCAT 2000 E plugin:ACList/SQ List/m_Visible:1
-EUROCAT 2000 E plugin:ACList/SQ List/m_X:20
-EUROCAT 2000 E plugin:ACList/SQ List/m_Y:25
+EUROCAT 2000 E plugin:ACList/SQ List/m_X:0
+EUROCAT 2000 E plugin:ACList/SQ List/m_Y:226
 EUROCAT 2000 E plugin:ACList/SQ List/m_LineNumber:1
 EUROCAT 2000 E plugin:ACList/SQ List/m_Resizable:1
 EUROCAT 2000 E plugin:ACList/SQ List/m_OrderingColumn:1
 EUROCAT 2000 E plugin:ACList/SQ List/m_Column_0:Callsign:9:0:22:6:0:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:
 EUROCAT 2000 E plugin:ACList/SQ List/m_Column_1:SQ:2:0:73:27:0:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:
 EUROCAT 2000 E plugin:ACList/Holding List /m_Visible:1
-EUROCAT 2000 E plugin:ACList/Holding List /m_X:20
-EUROCAT 2000 E plugin:ACList/Holding List /m_Y:25
+EUROCAT 2000 E plugin:ACList/Holding List /m_X:0
+EUROCAT 2000 E plugin:ACList/Holding List /m_Y:352
 EUROCAT 2000 E plugin:ACList/Holding List /m_LineNumber:1
 EUROCAT 2000 E plugin:ACList/Holding List /m_Resizable:1
 EUROCAT 2000 E plugin:ACList/Holding List /m_OrderingColumn:1

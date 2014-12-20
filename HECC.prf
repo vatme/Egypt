@@ -34,4 +34,8 @@ Voice	squelch	76.1
 Plugins	Plugin0	\Eurocat 2000E\E2kEplugin.dll
 LastSession	atis2	Cairo Control
 LastSession	atis3	Report position and altitude on first contact
-LastSession	atis4	visit ---> vateg.net
+LastSession	atis4	Monitor ATIS before contact. Visit vateg.net
+LastSession	callsign	HECC_CTR
+LastSession	facility	6
+LastSession	rating	1
+LastSession	range	500
