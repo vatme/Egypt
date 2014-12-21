@@ -64,6 +64,8 @@ Airports:OJAQ:symbol
 ARTCC boundary:F:
 ARTCC low boundary:L:
 Free Text:FIR_Ids\HECC:freetext
+Free Text:FIR_Ids\LCCC:freetext
+Free Text:FIR_Ids\LGGG:freetext
 Free Text:FIR_Ids\LLLL:freetext
 Free Text:FIR_Ids\OEJD:freetext
 Free Text:FIR_Ids\OJAC:freetext
